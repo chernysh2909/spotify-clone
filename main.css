@@ -748,6 +748,10 @@ video {
   width: 1rem;
 }
 
+.w-\[350px\] {
+  width: 350px;
+}
+
 .max-w-screen-5xl {
   max-width: 1900px;
 }
